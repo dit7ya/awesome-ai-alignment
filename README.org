@@ -2,7 +2,7 @@
 ** Watch These Two TED Talks
 - [[https://www.youtube.com/watch?v=8nt3edWLgIg][Can we build AI without losing control over it?]] - Sam Harris 
 - [[https://www.youtube.com/watch?v=MnT1xgZgkpk&t=1s][What happens when our computers get smarter than we are?]] - Nick Bostrom
-** Read These Blogposts by Tim Urban and the Reply
+** Read These Blogposts by Tim Urban 
 - WaitButWhy on AI Safety: [[https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html][Part 1]] and [[https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-2.html][Part 2]]
 - [[http://lukemuehlhauser.com/a-reply-to-wait-but-why-on-machine-superintelligence/][A Reply by Luke Muehlhauser correcting a few things]]
 ** Read More about Real Research on AI Safety
@@ -62,6 +62,8 @@
 - 80000hours Podcast by Rob Wiblin
 
 * Frameworks/ Environments
+* Events
+- [[aisafetycamp.com][AI Safety Research Camp]]
 * Other Lists Like This
 - [[https://vkrakovna.wordpress.com/ai-safety-resources/#communities][AI Safety Resources by Victoria Krakovna]]
 - [[https://humancompatible.ai/bibliography][CHAI Bibliography]]
