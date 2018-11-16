@@ -7,7 +7,7 @@
 - [[http://lukemuehlhauser.com/a-reply-to-wait-but-why-on-machine-superintelligence/][A Reply by Luke Muehlhauser correcting a few things]]
 ** Read More about Real Research on AI Safety
 - [[https://80000hours.org/career-reviews/artificial-intelligence-risk-research/][80000hours.org Profile on AI Safety Research]]
-
+https://80000hours.org/career-reviews/artificial-intelligence-risk-research/
 * Books
 - [[https://en.wikipedia.org/wiki/Superintelligence%3A_Paths%2C_Dangers%2C_Strategies][Superintelligence: Paths, Dangers, Strategies]] by Nick Bostrom
 - [[https://en.wikipedia.org/wiki/Life_3.0][Life 3.0]] by Max Tegmark
@@ -51,6 +51,11 @@
 - [[https://www.alignmentforum.org/][Alignment Forum]]
 
 * Podcasts
+** Episodes in Popular Podcasts
+- [[https://twimlai.com/twiml-talk-181-anticipating-superintelligence-with-nick-bostrom/][Nick Bostrom on *This Week in Machine Learning & AI*]]
+- [[https://samharris.org/podcasts/116-ai-racing-toward-brink/][Eliezer Yudkowsky on *Waking Up With Sam Harris* ]]
+- [[https://samharris.org/podcasts/the-dawn-of-artificial-intelligence1/][Stuart Russel on *Waking Up With Sam Harris*]]
+** Dedicated Podcasts
 - AI Alignment Podcast by Lucas Perry [Future of Life Institute]
 - 80000hours Podcast by Rob Wiblin
 
