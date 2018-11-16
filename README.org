@@ -7,17 +7,19 @@
 - [[http://lukemuehlhauser.com/a-reply-to-wait-but-why-on-machine-superintelligence/][A Reply by Luke Muehlhauser correcting a few things]]
 ** Read More about Real Research on AI Safety
 - [[https://80000hours.org/career-reviews/artificial-intelligence-risk-research/][80000hours.org Profile on AI Safety Research]]
-https://80000hours.org/career-reviews/artificial-intelligence-risk-research/
 * Books
 - [[https://en.wikipedia.org/wiki/Superintelligence%3A_Paths%2C_Dangers%2C_Strategies][Superintelligence: Paths, Dangers, Strategies]] by Nick Bostrom
 - [[https://en.wikipedia.org/wiki/Life_3.0][Life 3.0]] by Max Tegmark
 - [[https://www.goodreads.com/book/show/39947993-artificial-intelligence-safety-and-security?ac=1&from_search=true][Artificial Intelligence Safety and Security]] by Roman Yampolskiy (Editor)
 
 * Talks
-- [[https://www.youtube.com/watch?v=8nt3edWLgIg][Can we build AI without losing control over it?]] - Sam Harris 
-- [[https://www.youtube.com/watch?v=MnT1xgZgkpk&t=1s][What happens when our computers get smarter than we are?]] - Nick Bostrom
-- [[https://www.youtube.com/watch?v=2LRwvU6gEbA][How to get empowered, not overpowered, by AI]] - Max Tegmark
-
+** Popular
+- [[https://www.youtube.com/watch?v=8nt3edWLgIg][Can we build AI without losing control over it?]] - Sam Harris (2016)
+- [[https://www.youtube.com/watch?v=MnT1xgZgkpk&t=1s][What happens when our computers get smarter than we are?]] - Nick Bostrom (2014)
+- [[https://www.youtube.com/watch?v=EBK-a94IFHY&t=940s][3 principles for creating safer AI]] - Stuart Russell (2017)
+- [[https://www.youtube.com/watch?v=2LRwvU6gEbA][How to get empowered, not overpowered, by AI]] - Max Tegmark (2018)
+** Technical
+- [[https://www.youtube.com/watch?v=EUjc1WuyPT8][Eliezer Yudkowsky – AI Alignment: Why It's Hard, and Where to Start]] (2016)
 * Blogposts
 - [[https://thinkingwires.com/posts/2017-07-05-risks.html][Risks of Artificial Intelligence]] by Johannes Heidecke
 
