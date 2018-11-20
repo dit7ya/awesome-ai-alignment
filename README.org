@@ -87,6 +87,8 @@ Pull requests are welcome.
  - [[https://www.youtube.com/watch?v=EUjc1WuyPT8][Eliezer Yudkowsky – AI Alignment: Why It's Hard, and Where to Start]] (2016)
 ** Blogposts
  - [[https://thinkingwires.com/posts/2017-07-05-risks.html][Risks of Artificial Intelligence]] by Johannes Heidecke
+ - [[https://www.alignmentforum.org/posts/i3BTagvt3HbPMx6PN/embedded-agency-full-text-version][Embedded Agency]] by Scott Garrabrant and Abram Demski
+ - [[https://www.alignmentforum.org/s/4dHMdK5TLN6xcqtyc][Value Learning Sequence]] by Rohin Shah et al.
 ** Communities/ Forums
  - [[https://www.alignmentforum.org/][Alignment Forum]]
 
