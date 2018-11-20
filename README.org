@@ -5,11 +5,11 @@ Welcome to Awesome-AI Alignment - a curated list of awesome resources for gettin
 
 AI Alignment is also known as AI Safety, Beneficial AI, Human-aligned AI, Friendly AI etc.
 
-If you are a newcomer in this field, start with the Crash Course below.
+If you are a newcomer to this field, start with the Crash Course below.
 
 Pull requests are welcome. 
 
-** ToC 
+** Table of Contents 
 :PROPERTIES:
 :TOC:      this
 :END:
@@ -65,6 +65,7 @@ Pull requests are welcome.
  - [[The Learning-Theoretic AI Alignment Research Agenda][MIRI Machine Learning Agenda]] by Jessica Taylor and Eliezer Yudkowsky and Patrick LaVictoire and Andrew Critch
  - [[https://intelligence.org/files/TechnicalAgenda.pdf][MIRI Agent Foundations Agenda]] by Nate Soares and Benya Fallenstein
  - [[https://arxiv.org/abs/1606.06565][Concrete Problems in AI Safety]] by Dario Amodei, Chris Olah, Jacob Steinhardt, Paul Christiano, John Schulman, Dan Mané
+ - [[https://arxiv.org/pdf/1811.07871.pdf][DeepMind Scalable Agent Alignment Agenda]] by Jan Leike, David Krueger, Tom Everitt, Miljan Martic, Vishal Maini, and Shane Legg
 *** Literature Reviews
  - [[https://arxiv.org/abs/1805.01109][AGI Safety Literature Review]] by Tom Everitt, Gary Lea, Marcus Hutter
  - [[www.tomeveritt.se/papers/2018-thesis.pdf][Towards Safe Artificial General Intelligence]] - Tom Everitt's PhD Thesis
