@@ -66,6 +66,7 @@ Pull requests are welcome.
  - [[https://intelligence.org/files/TechnicalAgenda.pdf][MIRI Agent Foundations Agenda]] by Nate Soares and Benya Fallenstein
  - [[https://arxiv.org/abs/1606.06565][Concrete Problems in AI Safety]] by Dario Amodei, Chris Olah, Jacob Steinhardt, Paul Christiano, John Schulman, Dan Mané
  - [[https://arxiv.org/pdf/1811.07871.pdf][DeepMind Scalable Agent Alignment Agenda]] by Jan Leike, David Krueger, Tom Everitt, Miljan Martic, Vishal Maini, and Shane Legg
+ - [[https://intelligence.org/2018/11/22/2018-update-our-new-research-directions/][MIRI 2018 Research Directions]] by Nate Soares
 *** Literature Reviews
  - [[https://arxiv.org/abs/1805.01109][AGI Safety Literature Review]] by Tom Everitt, Gary Lea, Marcus Hutter
  - [[www.tomeveritt.se/papers/2018-thesis.pdf][Towards Safe Artificial General Intelligence]] - Tom Everitt's PhD Thesis
