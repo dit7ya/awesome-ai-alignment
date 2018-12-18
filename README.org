@@ -70,6 +70,7 @@ Pull requests are welcome.
 *** Literature Reviews
  - [[https://arxiv.org/abs/1805.01109][AGI Safety Literature Review]] by Tom Everitt, Gary Lea, Marcus Hutter
  - [[www.tomeveritt.se/papers/2018-thesis.pdf][Towards Safe Artificial General Intelligence]] - Tom Everitt's PhD Thesis
+ - [[https://www.lesswrong.com/posts/a72owS5hz3acBK5xc/2018-ai-alignment-literature-review-and-charity-comparison][2018 AI Alignment Literature Review and Charity Comparison]] by Larks
 *** Technical Papers
 **** Agent Foundations
 **** Machine Learning
@@ -92,6 +93,8 @@ Pull requests are welcome.
  - [[https://www.alignmentforum.org/s/4dHMdK5TLN6xcqtyc][Value Learning Sequence]] by Rohin Shah et al.
 ** Communities/ Forums
  - [[https://www.alignmentforum.org/][Alignment Forum]]
+ - [[http://aisafety.camp/][RAISE - Road to AI Safety Excellence]]
+ - [[https://aisafety.com/reading-group/][AI Safety Reading Group]]
 
 ** Institutes/ Research Groups
 *** Technical Research
