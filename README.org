@@ -1,20 +1,20 @@
 * Awesome Artificial Intelligence Alignment
-[[https://github.com/sindresorhus/awesome][https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg]]
+  [[https://github.com/sindresorhus/awesome][https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg]]
 
-Welcome to Awesome-AI Alignment - a curated list of awesome resources for getting-into and staying-in-touch with the research in AI Alignment.
+  Welcome to Awesome-AI Alignment - a curated list of awesome resources for getting-into and staying-in-touch with the research in AI Alignment.
 
-AI Alignment is also known as AI Safety, Beneficial AI, Human-aligned AI, Friendly AI etc.
+  AI Alignment is also known as AI Safety, Beneficial AI, Human-aligned AI, Friendly AI etc.
 
-If you are a newcomer to this field, start with the Crash Course below.
+  If you are a newcomer to this field, start with the Crash Course below.
 
-Pull requests are welcome. 
+  Pull requests are welcome. 
 
 ** Table of Contents 
-:PROPERTIES:
+   :PROPERTIES:
 :TOC:      this
 :END:
   -  [[#awesome-artificial-intelligence-alignment][Awesome Artificial Intelligence Alignment]]
-    -  [[#a-crash-course-for-a-popular-audience][A Crash Course for a Popular Audience]]]
+    -  [[#a-crash-course-for-a-popular-audience][A Crash Course for a Popular Audience]]
       -  [[#watch-these-two-ted-talks][Watch These Two TED Talks]]
       -  [[#read-these-blogposts-by-tim-urban][Read These Blogposts by Tim Urban]]
       -  [[#read-more-about-real-research-on-ai-safety][Read More about Real Research on AI Safety]]
@@ -58,22 +58,23 @@ Pull requests are welcome.
 ** Courses
  - [[http://inst.eecs.berkeley.edu/~cs294-149/fa18/][CS 294-149: Safety and Control for Artificial General Intelligence (Fall 2018)]] by Andrew Critch and Stuart Russel [UC Berkeley]
  - [[https://dorsa.fyi/cs521/][CS 521: Seminar on AI Safety]] by Dorsa Sadigh [Stanford]
-** Papers
-*** Research Agendas
- - [[https://ai-alignment.com/iterated-distillation-and-amplification-157debfd1616][Paul Christiano's Agenda]] summarised by Ajeya Cotra
- - [[https://agentfoundations.org/item?id=1816][The Learning-Theoretic AI Alignment Research Agenda]] by Vadim Kosoy
- - [[The Learning-Theoretic AI Alignment Research Agenda][MIRI Machine Learning Agenda]] by Jessica Taylor and Eliezer Yudkowsky and Patrick LaVictoire and Andrew Critch
- - [[https://intelligence.org/files/TechnicalAgenda.pdf][MIRI Agent Foundations Agenda]] by Nate Soares and Benya Fallenstein
- - [[https://arxiv.org/abs/1606.06565][Concrete Problems in AI Safety]] by Dario Amodei, Chris Olah, Jacob Steinhardt, Paul Christiano, John Schulman, Dan Mané
- - [[https://arxiv.org/pdf/1811.07871.pdf][DeepMind Scalable Agent Alignment Agenda]] by Jan Leike, David Krueger, Tom Everitt, Miljan Martic, Vishal Maini, and Shane Legg
- - [[https://intelligence.org/2018/11/22/2018-update-our-new-research-directions/][MIRI 2018 Research Directions]] by Nate Soares
-*** Literature Reviews
- - [[https://arxiv.org/abs/1805.01109][AGI Safety Literature Review]] by Tom Everitt, Gary Lea, Marcus Hutter
- - [[www.tomeveritt.se/papers/2018-thesis.pdf][Towards Safe Artificial General Intelligence]] - Tom Everitt's PhD Thesis
- - [[https://www.lesswrong.com/posts/a72owS5hz3acBK5xc/2018-ai-alignment-literature-review-and-charity-comparison][2018 AI Alignment Literature Review and Charity Comparison]] by Larks
-*** Technical Papers
-**** Agent Foundations
-**** Machine Learning
+** Research Agendas
+   - [[https://ai-alignment.com/iterated-distillation-and-amplification-157debfd1616][Paul Christiano's Agenda]] summarised by Ajeya Cotra
+   - [[https://agentfoundations.org/item?id=1816][The Learning-Theoretic AI Alignment Research Agenda]] by Vadim Kosoy
+   - [[The Learning-Theoretic AI Alignment Research Agenda][MIRI Machine Learning Agenda]] by Jessica Taylor and Eliezer Yudkowsky and Patrick LaVictoire and Andrew Critch
+   - [[https://intelligence.org/files/TechnicalAgenda.pdf][MIRI Agent Foundations Agenda]] by Nate Soares and Benya Fallenstein
+   - [[https://arxiv.org/abs/1606.06565][Concrete Problems in AI Safety]] by Dario Amodei, Chris Olah, Jacob Steinhardt, Paul Christiano, John Schulman, Dan Mané
+   - [[https://arxiv.org/pdf/1811.07871.pdf][DeepMind Scalable Agent Alignment Agenda]] by Jan Leike, David Krueger, Tom Everitt, Miljan Martic, Vishal Maini, and Shane Legg
+   - [[https://intelligence.org/2018/11/22/2018-update-our-new-research-directions/][MIRI 2018 Research Directions]] by Nate Soares
+   - [[https://arxiv.org/abs/1811.03493][Integrative Biological Simulation, Neuropsychology, and AI Safety]] by Gopal P. Sarma, Adam Safron, and Nick J. Hay
+** Literature Reviews
+   - [[https://arxiv.org/abs/1805.01109][AGI Safety Literature Review]] by Tom Everitt, Gary Lea, Marcus Hutter
+   - [[www.tomeveritt.se/papers/2018-thesis.pdf][Towards Safe Artificial General Intelligence]] - Tom Everitt's PhD Thesis
+   - [[https://www.lesswrong.com/posts/a72owS5hz3acBK5xc/2018-ai-alignment-literature-review-and-charity-comparison][2018 AI Alignment Literature Review and Charity Comparison]] by Larks
+   - [[https://futureoflife.org/ai-policy/][FLI AI Policy Resources]]
+** Technical Papers
+*** Agent Foundations
+*** Machine Learning
 
 ** Frameworks/ Environments
  - [[https://github.com/JohannesHeidecke/irl-benchmark][IRL-Benchmark]]
