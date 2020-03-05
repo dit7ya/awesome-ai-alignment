@@ -74,6 +74,7 @@
    - [[https://www.lesswrong.com/posts/a72owS5hz3acBK5xc/2018-ai-alignment-literature-review-and-charity-comparison][2018 AI Alignment Literature Review and Charity Comparison]] by Larks
    - [[https://futureoflife.org/ai-policy/][FLI AI Policy Resources]]
    - [[https://futureoflife.org/2019/04/11/an-overview-of-technical-ai-alignment-with-rohin-shah-part-1/][An Overview of Technical AI Alignment with Rohin Shah]]
+   - [[https://docs.google.com/document/d/1FbTuRvC4TFWzGYerTKpBU7FJlyvjeOvVYF2uYNFSlOc/edit][AI Alignment Research Overview]] by Jacob Steinhardt
 ** Technical Papers
 *** Agent Foundations
 *** Machine Learning
