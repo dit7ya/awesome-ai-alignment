@@ -110,6 +110,7 @@
  - [[https://medium.com/@deepmindsafetyresearch][DeepMind Safety Team]]
  - [[https://humancompatible.ai/][Center for Human-Compatible AI]]
 *** Policy and Strategy Research
+- [[http://inexplicable.ai/][AI Alignment, Inc.]]
 
 ** Podcasts
 *** Episodes in Popular Podcasts
