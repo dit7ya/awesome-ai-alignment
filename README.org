@@ -1,8 +1,8 @@
 ** NOTE: April 2023
 
-As of April 2023, there is a lot of new interest in the field of AI Alignment. However, this repo is unmaintained since I gave up hope about solving alignment on-time as a species almost three years ago. 
+As of April 2023, there is a lot of new interest in the field of AI Alignment. However, this repo is unmaintained since I gave up hope about solving alignment on-time as a species - almost three years ago. 
 
-Maybe [[https://www.aisafetysupport.org/resources/lots-of-links][AI Safety Support]] is one of the definitive resource right now. 
+Maybe [[https://www.aisafetysupport.org/resources/lots-of-links][AI Safety Support]] is one of the definitive resources right now. 
 
 I will, however, accept PRs on this repo.
 
